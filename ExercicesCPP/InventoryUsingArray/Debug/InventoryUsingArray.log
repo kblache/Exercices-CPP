@@ -1,0 +1,4 @@
+﻿  InventoryUsingArray.cpp
+C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\ExercicesCPP\InventoryUsingArray\InventoryUsingArray.cpp(22,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\ExercicesCPP\InventoryUsingArray\InventoryUsingArray.cpp(33,20): warning C4018: '<' : incompatibilité signed/unsigned
+  InventoryUsingArray.vcxproj -> C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\ExercicesCPP\Debug\InventoryUsingArray.exe
