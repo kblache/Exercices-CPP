@@ -1,0 +1,6 @@
+﻿  SpaceShip.cpp
+C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\ExercicesCPP\EquipASpaceShip\SpaceShip.cpp(52,18): warning C4244: '=' : conversion de 'main::quickEngine' en 'float', perte possible de données
+C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\ExercicesCPP\EquipASpaceShip\SpaceShip.cpp(55,23): warning C4244: '=' : conversion de 'main::quickEngine' en 'float', perte possible de données
+C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\ExercicesCPP\EquipASpaceShip\SpaceShip.cpp(67,18): warning C4244: '=' : conversion de 'main::balanceEngine' en 'float', perte possible de données
+C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\ExercicesCPP\EquipASpaceShip\SpaceShip.cpp(70,23): warning C4244: '=' : conversion de 'main::balanceEngine' en 'float', perte possible de données
+  EquipASpaceShip.vcxproj -> C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\ExercicesCPP\Debug\EquipASpaceShip.exe
