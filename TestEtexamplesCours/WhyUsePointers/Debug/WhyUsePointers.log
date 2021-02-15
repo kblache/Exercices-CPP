@@ -1,14 +1,6 @@
 ﻿  WhyUsePointers.cpp
-C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\TestEtexamplesCours\WhyUsePointers\WhyUsePointers.cpp(10,72): error C2440: 'initialisation' : impossible de convertir de 'const char [6]' en 'char *'
-C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\TestEtexamplesCours\WhyUsePointers\WhyUsePointers.cpp(10,23): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
-C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\TestEtexamplesCours\WhyUsePointers\WhyUsePointers.cpp(10,72): error C2440: 'initialisation' : impossible de convertir de 'const char [7]' en 'char *'
-C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\TestEtexamplesCours\WhyUsePointers\WhyUsePointers.cpp(10,32): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
-C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\TestEtexamplesCours\WhyUsePointers\WhyUsePointers.cpp(10,72): error C2440: 'initialisation' : impossible de convertir de 'const char [8]' en 'char *'
-C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\TestEtexamplesCours\WhyUsePointers\WhyUsePointers.cpp(10,50): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
-C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\TestEtexamplesCours\WhyUsePointers\WhyUsePointers.cpp(10,72): error C2440: 'initialisation' : impossible de convertir de 'const char [10]' en 'char *'
-C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\TestEtexamplesCours\WhyUsePointers\WhyUsePointers.cpp(10,60): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
-C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\TestEtexamplesCours\WhyUsePointers\WhyUsePointers.cpp(11,9): error C2059: erreur de syntaxe : 'user-defined literal'
-C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\TestEtexamplesCours\WhyUsePointers\WhyUsePointers.cpp(11,22): error C2143: erreur de syntaxe : absence de ';' avant '{'
-C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\TestEtexamplesCours\WhyUsePointers\WhyUsePointers.cpp(11,68): error C2143: erreur de syntaxe : absence de ';' avant '}'
-C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\TestEtexamplesCours\WhyUsePointers\WhyUsePointers.cpp(12,34): error C2440: 'initialisation' : impossible de convertir de 'initializer list' en 'int *'
-C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\TestEtexamplesCours\WhyUsePointers\WhyUsePointers.cpp(12,13): message : L'initialiseur contient trop d'éléments
+C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\TestEtexamplesCours\WhyUsePointers\WhyUsePointers.cpp(11,14): error C2059: erreur de syntaxe : 'user-defined literal'
+C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\TestEtexamplesCours\WhyUsePointers\WhyUsePointers.cpp(11,27): error C2143: erreur de syntaxe : absence de ';' avant '{'
+C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\TestEtexamplesCours\WhyUsePointers\WhyUsePointers.cpp(11,73): error C2143: erreur de syntaxe : absence de ';' avant '}'
+C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\TestEtexamplesCours\WhyUsePointers\WhyUsePointers.cpp(12,40): error C2440: 'initialisation' : impossible de convertir de 'initializer list' en 'const int *'
+C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\TestEtexamplesCours\WhyUsePointers\WhyUsePointers.cpp(12,19): message : L'initialiseur contient trop d'éléments
