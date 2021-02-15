@@ -1,6 +1,6 @@
 ﻿  WhyUsePointers.cpp
 C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\TestEtexamplesCours\WhyUsePointers\WhyUsePointers.cpp(11,15): error C2059: erreur de syntaxe : 'user-defined literal'
 C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\TestEtexamplesCours\WhyUsePointers\WhyUsePointers.cpp(11,28): error C2143: erreur de syntaxe : absence de ';' avant '{'
-C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\TestEtexamplesCours\WhyUsePointers\WhyUsePointers.cpp(11,75): error C2059: erreur de syntaxe : '}'
+C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\TestEtexamplesCours\WhyUsePointers\WhyUsePointers.cpp(11,74): error C2143: erreur de syntaxe : absence de ';' avant '}'
 C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\TestEtexamplesCours\WhyUsePointers\WhyUsePointers.cpp(12,40): error C2440: 'initialisation' : impossible de convertir de 'initializer list' en 'const int *'
 C:\Cours\ArtFx\Gaetan\GitHub\Exercices-CPP\TestEtexamplesCours\WhyUsePointers\WhyUsePointers.cpp(12,19): message : L'initialiseur contient trop d'éléments
